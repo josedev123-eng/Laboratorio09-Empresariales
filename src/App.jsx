@@ -1,7 +1,7 @@
 function App() {
   return (
-    <main>
-      <h1>Cine Estelar</h1>
+    <main className="contenedor seccion">
+      <h1 className="seccion-titulo">Cine Estelar</h1>
       <p>Cartelera en construcción</p>
     </main>
   )

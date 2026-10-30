@@ -1,0 +1,21 @@
+/* Variables globales: colores, tipografía y medidas que se usan en todo el sitio */
+:root {
+  --color-fondo: #0f1115;
+  --color-superficie: #1a1d24;
+  --color-borde: #2a2e38;
+  --color-texto: #f2f2f2;
+  --color-texto-suave: #a9adb8;
+  --color-primario: #e50914;
+  --color-acento: #f5c518;
+
+  --fuente-principal: 'Segoe UI', Roboto, Arial, sans-serif;
+
+  --espacio-xs: 4px;
+  --espacio-sm: 8px;
+  --espacio-md: 16px;
+  --espacio-lg: 24px;
+  --espacio-xl: 40px;
+
+  --radio: 10px;
+  --ancho-maximo: 1200px;
+}

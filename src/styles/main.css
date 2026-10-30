@@ -1,0 +1,4 @@
+/* Archivo principal de estilos: importa primero la base y luego cada componente */
+@import './base/variables.css';
+@import './base/reset.css';
+@import './base/layout.css';

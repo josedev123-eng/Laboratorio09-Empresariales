@@ -1,0 +1,18 @@
+/* Clases de estructura que se reutilizan en varias secciones */
+.contenedor {
+  width: 100%;
+  max-width: var(--ancho-maximo);
+  margin: 0 auto;
+  padding: 0 var(--espacio-md);
+}
+
+.seccion {
+  padding: var(--espacio-xl) 0;
+}
+
+.seccion-titulo {
+  font-size: 1.6rem;
+  margin-bottom: var(--espacio-lg);
+  border-left: 4px solid var(--color-primario);
+  padding-left: var(--espacio-sm);
+}
