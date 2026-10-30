@@ -1,9 +1,13 @@
+import Header from './components/Header.jsx'
+
 function App() {
   return (
-    <main className="contenedor seccion">
-      <h1 className="seccion-titulo">Cine Estelar</h1>
-      <p>Cartelera en construcción</p>
-    </main>
+    <>
+      <Header />
+      <main className="contenedor seccion">
+        <p>Cartelera en construcción</p>
+      </main>
+    </>
   )
 }
 
